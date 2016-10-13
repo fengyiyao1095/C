@@ -4,6 +4,7 @@
 void main()
 {
 	float t;
+	int mm=20;
 	int x0=320,y0=240;
 	int n,i,j,r;
 	int x[50],y[50];
